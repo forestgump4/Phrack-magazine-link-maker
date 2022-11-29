@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 42d97de852c1552f5fbe4aaf5902e5324485e0fe john <2u1gslkc@duck.com> 1666211856 +0300	commit (initial): original idea, but writing to a specific file required permission
+42d97de852c1552f5fbe4aaf5902e5324485e0fe cc4db8bf7f6a55f154686e5d37c7ef317ceade33 john <2u1gslkc@duck.com> 1666211909 +0300	commit: copy-paste is not such a hard job
+cc4db8bf7f6a55f154686e5d37c7ef317ceade33 f9e7bcbf9633b663221d7f67aca4b2f562f24b9a john <2u1gslkc@duck.com> 1666212079 +0300	commit: la finale
+f9e7bcbf9633b663221d7f67aca4b2f562f24b9a 7e08d5f0dd2f30f13d9a6d1b13d8986d4be9d3f2 john <2u1gslkc@duck.com> 1666212536 +0300	commit: la finale
+7e08d5f0dd2f30f13d9a6d1b13d8986d4be9d3f2 9e64df5b96aa0adc448d296820ddc6cfa72728eb john <2u1gslkc@duck.com> 1667139426 +0300	commit: try one
+9e64df5b96aa0adc448d296820ddc6cfa72728eb 7e08d5f0dd2f30f13d9a6d1b13d8986d4be9d3f2 john <2u1gslkc@duck.com> 1667139589 +0300	reset: moving to 7e08d5f0dd2f30f13d9a6d1b13d8986d4be9d3f2
+7e08d5f0dd2f30f13d9a6d1b13d8986d4be9d3f2 7e08d5f0dd2f30f13d9a6d1b13d8986d4be9d3f2 john <2u1gslkc@duck.com> 1667139629 +0300	checkout: moving from master to podcats
+7e08d5f0dd2f30f13d9a6d1b13d8986d4be9d3f2 5a69c6ef27f38652355f5ec95826130ee8ca740b john <2u1gslkc@duck.com> 1667139670 +0300	commit: try one
+5a69c6ef27f38652355f5ec95826130ee8ca740b f2647c67040a205f2a195fe3f3983d64e79f3884 john <2u1gslkc@duck.com> 1667142706 +0300	commit: v 1.2
+f2647c67040a205f2a195fe3f3983d64e79f3884 2db9cfcb8b86806dfe466a93f315c3fd04d58ba1 john <2u1gslkc@duck.com> 1667143222 +0300	commit: v 2.0
+2db9cfcb8b86806dfe466a93f315c3fd04d58ba1 f2647c67040a205f2a195fe3f3983d64e79f3884 john <2u1gslkc@duck.com> 1667143262 +0300	reset: moving to f2647c67040a205f2a195fe3f3983d64e79f3884
+f2647c67040a205f2a195fe3f3983d64e79f3884 325a89d0b4ecc85469c617babb8cfb4702205eaf john <2u1gslkc@duck.com> 1667143269 +0300	commit: v 2.0
+325a89d0b4ecc85469c617babb8cfb4702205eaf 06968dfd1013925b333cbf2535a5d43ee0237aef john <2u1gslkc@duck.com> 1667144650 +0300	commit: v 2.1
+06968dfd1013925b333cbf2535a5d43ee0237aef 06968dfd1013925b333cbf2535a5d43ee0237aef john <2u1gslkc@duck.com> 1668011451 +0300	checkout: moving from podcats to artwork_sidequest
